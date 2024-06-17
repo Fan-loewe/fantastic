@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Embedded System | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/embedded-system/</link>
+      <atom:link href="http://localhost:1313/tags/embedded-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>Embedded System</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Embedded System</title>
+      <link>http://localhost:1313/tags/embedded-system/</link>
+    </image>
+    
+    <item>
+      <title>Vision-based risk quantification on E-bikes for urban cycling</title>
+      <link>http://localhost:1313/project/masterthesis/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/masterthesis/</guid>
+      <description>
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/fkkc8ptwXzQ?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;In my master&amp;rsquo;s thesis project at the &lt;a href=&#34;https://vision.ee.ethz.ch&#34;&gt;Computer Vision Lab&lt;/a&gt;, ETH Zurich, I focused on:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Isovist Generation&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Create isovists using edge detection.&lt;/li&gt;
+&lt;li&gt;Incorporate big data analysis for accuracy.&lt;/li&gt;
+&lt;li&gt;Implement dynamic navigation with real-time GPS.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Human Pose Estimation&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Optimize human pose estimation for embedded systems.&lt;/li&gt;
+&lt;li&gt;Use Nvidia Jetson and TensorRT for real-time performance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Risk Maps Generation&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Estimate traffic accident probabilities based on detected pedestrain density.&lt;/li&gt;
+&lt;li&gt;Generate risk maps for urban safety based on estimated traffic accidents.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This project leveraged advanced computer vision, embedded systems, and data analysis to enhance urban navigation and safety.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Service Robot RoboCup@Home</title>
+      <link>http://localhost:1313/project/robocup/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/robocup/</guid>
+      <description>
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/gLmGZsRV2dw?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;During my master&amp;rsquo;s program at TUM, I participated in a team project focused on developing a service robot to serve drinks. The robot was designed to go to the service point, listen to people&amp;rsquo;s requests (i.e., which drink they wanted), then navigate to a shelf, recognize the requested drink, retrieve it, and bring it back to the customer.&lt;/p&gt;
+&lt;p&gt;This project encompassed several key areas of knowledge, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Speech recognition&lt;/li&gt;
+&lt;li&gt;Navigation using SLAM&lt;/li&gt;
+&lt;li&gt;Object identification and neural network training with YOLO&lt;/li&gt;
+&lt;li&gt;Robot manipulation using MoveIt&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

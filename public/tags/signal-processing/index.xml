@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Signal Processing | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/signal-processing/</link>
+      <atom:link href="http://localhost:1313/tags/signal-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Signal Processing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Signal Processing</title>
+      <link>http://localhost:1313/tags/signal-processing/</link>
+    </image>
+    
+    <item>
+      <title>Robot movement with mind</title>
+      <link>http://localhost:1313/project/bci/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/bci/</guid>
+      <description>
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/lB6WYwblP8A?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;During my master&amp;rsquo;s program at TUM, I participated in a team project focused on controlling a robotic car using a brain-computer interface (BCI). The control mechanism involved using blinking boxes with three different frequencies. When a person looks at these boxes, their brain activity varies depending on the frequency. We extracted the corresponding EEG signals and trained a classifier to distinguish between these differences. The BCI then linked the classification results to the car&amp;rsquo;s motor commands. Specifically, the three different blinking frequencies corresponded to the commands &amp;ldquo;left,&amp;rdquo; &amp;ldquo;right,&amp;rdquo; and &amp;ldquo;keep going,&amp;rdquo; enabling us to control the car with our minds.&lt;/p&gt;
+&lt;p&gt;This project encompassed several key areas of knowledge, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SSVEP-based brain-computer interface&lt;/li&gt;
+&lt;li&gt;EEG signal acquisition and processing&lt;/li&gt;
+&lt;li&gt;Training a linear discriminant analysis classifier&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sound source localization with head movement</title>
+      <link>http://localhost:1313/project/sound/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/sound/</guid>
+      <description>
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/GFK2jOPIZOY?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;In my master&amp;rsquo;s program at TUM, I developed a system for a robot to localize sound sources and rotate its head accordingly. Using two microphones to simulate ears, I captured audio, converted analog signals to digital, and implemented algorithms for sound localization. I then generated PWM signals to control the actuators for precise motor control.&lt;/p&gt;
+&lt;p&gt;This project encompassed key areas of knowledge:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Low-level Programming:&lt;/strong&gt; Efficient hardware control in assembly language.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Microcontroller Programming:&lt;/strong&gt; Real-time management of sensors and actuators.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Signal Processing:&lt;/strong&gt; Proficiency in ADC and sound localization.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Control Systems:&lt;/strong&gt; Expertise in generating PWM signals for motor control.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

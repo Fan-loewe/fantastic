@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>The Bitemporal Lens Model—toward a holistic approach to chronic disease prevention with digital biomarkers</title>
+      <link>http://localhost:1313/publication/lens/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smartwatch-Assessed Sleep and Quality of Life in Healthy Individuals</title>
+      <link>http://localhost:1313/publication/sleep/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sleep/</guid>
+      <description>&lt;p&gt;This work is continous work following my &lt;a href=&#34;http://localhost:1313/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on circadian rhythm.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparative efficacy of commercial wearables for circadian rhythm home monitoring from activity, heart rate, and core body temperature</title>
+      <link>http://localhost:1313/publication/cr/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends in voice characteristics in patients with heart failure (VENTURE) in Switzerland: Protocol for a longitudinal observational pilot study</title>
+      <link>http://localhost:1313/publication/venture/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/venture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voice Remote Monitoring System for Patients with Heart Failure (VOMOS)</title>
+      <link>http://localhost:1313/publication/vomos/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vomos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

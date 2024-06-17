@@ -25,7 +25,7 @@ all_day: false
 publishDate: '2017-01-01T00:00:00Z'
 
 authors:
-  - admin
+  - fan
 
 tags: []
 
@@ -61,7 +61,6 @@ slides: ""
 projects:
   - example
 ---
-
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
