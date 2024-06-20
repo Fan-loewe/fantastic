@@ -20,8 +20,9 @@ publication_short: ""
 abstract: Heart Failure (HF) is a major health and economic issue worldwide. HF-related expenses are largely driven by hospital admissions and re-admissions, many of which are potentially preventable. Current self-management programs, however, have failed to reduce hospital admissions. This may be explained by their low predictive power for decompensation and high adherence requirements. Slight alterations in the voice profile may allow to detect decompensation in HF patients at an earlier stage and reduce hospitalizations. This pilot study investigates the potential of voice as a digital biomarker to predict health status deterioration in HF patients.
 
 tags:
-- Mobile devices
-- Healthcare
+- Voice
+- Heart disease
+- Study design
 featured: true
 
 # links:

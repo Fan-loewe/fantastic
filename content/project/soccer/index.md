@@ -1,12 +1,13 @@
 ---
 title: Soccer Shoot
 summary: Student project at TU Munich
-date: 2019-06-01
+date: 2019-04-01
 type: docs
 math: false
 tags:
   - Computer Vision
   - Reinforcement Learning
+  - ROS
 
 image:
   caption: 'caption'

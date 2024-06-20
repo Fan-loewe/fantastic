@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sleep | Fan Wu</title>
+    <link>http://localhost:1313/tags/sleep/</link>
+      <atom:link href="http://localhost:1313/tags/sleep/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sleep</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu541db5144e01dff153da5e14220256e7_118377_512x512_fill_lanczos_center_3.png</url>
+      <title>Sleep</title>
+      <link>http://localhost:1313/tags/sleep/</link>
+    </image>
+    
+    <item>
+      <title>Smartwatch-Assessed Sleep and Quality of Life in Healthy Individuals</title>
+      <link>http://localhost:1313/publication/sleep/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sleep/</guid>
+      <description>&lt;p&gt;This work is continous work following my &lt;a href=&#34;http://localhost:1313/publication/cr/&#34;&gt;previous paper&lt;/a&gt; on circadian rhythm.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

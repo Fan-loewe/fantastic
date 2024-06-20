@@ -1,12 +1,13 @@
 ---
 title: Vision-based risk quantification on E-bikes for urban cycling
 summary: Master thesis at the (Computer Vision Lab) CVL, ETH
-date: 2021-02-01
 type: docs
+date: 2021-03-01
 math: false
 tags:
   - Computer Vision
   - Embedded System
+reading_time: false
 
 image:
   caption: 'caption'

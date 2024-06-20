@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "3rem"
 
 sections:
   - block: resume-biography-3
@@ -18,18 +18,6 @@ sections:
       # button:
         #text: Download CV
         #url: uploads/resume.pdf
-    design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
 
   - block: collection
     id: papers
@@ -44,7 +32,7 @@ sections:
       columns: 3
 
   - block: collection
-    id: papers
+    id: projects
     content:
       title: Featured Projects
       filters:
@@ -54,6 +42,7 @@ sections:
     design:
       view: article-grid
       columns: 3
+
 
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site

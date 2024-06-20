@@ -17,8 +17,9 @@ publication_short: In *EMBC 2024*
 abstract: This longitudinal study explores the link between smartwatch sleep measures and quality of life, identifying irregularity and efficiency as potential predictors of well-being.
 
 tags:
-- Mobile devices
+- Wearables
 - Healthcare
+- Sleep
 
 featured: true
 
@@ -56,4 +57,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-This work is continous work following my [previous paper](/publication/conference-paper/) on circadian rhythm.
+This work is continous work following my [previous paper]({{< relref "/publication/cr" >}}) on circadian rhythm.

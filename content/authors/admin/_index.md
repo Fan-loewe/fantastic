@@ -25,16 +25,13 @@ organizations:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+
 profiles:
   - icon: at-symbol
     url: 'mailto:fanwu@ethz.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Fan-loewe
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -66,9 +63,8 @@ education:
     date_start: 2018-10-01
     date_end: 2021-04-30
     summary: |
-      Thesis on _Vision-based Risk Quantification on E-bikes for Urban Cycling_ at the [Computer Vision Lab](https://vision.ee.ethz.ch), ETH Zurich. Check more details in my project.
+      Thesis on _Vision-based Risk Quantification on E-bikes for Urban Cycling_ at the Computer Vision Lab, ETH Zurich. Check more details in my _Projects_.
   
-      GPA: 1.3/1.0
   - area: BSc Electrical engineering and its automation
     institution: North China Electric Power University 
     date_start: 2014-09-01
@@ -198,4 +194,4 @@ awards:
 ---
 ## About Me
 
-During my studies and professional experiences in China, Germany, and Switzerland, I focused on artificial intelligence and signal processing. Moreover, I developed digital applications and services. From electrical engineering, over robotics, to digital health, my biggest passion is to develop technologies to improve people’s quality of life.
+During my studies and professional experiences in China, Germany, and Switzerland, I focused on developing digital applications and services using AI, data science, and ubiquitous computing. From electrical engineering and robotics to digital health, my passion is to develop technologies that improve people’s quality of life.

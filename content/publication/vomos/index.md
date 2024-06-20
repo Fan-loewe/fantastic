@@ -13,7 +13,8 @@ abstract: Voice-based digital biomarkers acquired through mobile devices, combin
 
 tags:
 - Voice
-- Machine Learning
+- Heart disease
+- Healthcare
 
 featured: true
 

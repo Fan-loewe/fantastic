@@ -1,8 +1,7 @@
 ---
 title: Sound source localization with head movement
 summary: Student project at TU Munich
-date_start: 2020-03-01 
-date_end: 2020-08-31
+date: 2019-07-01
 type: docs
 math: false
 tags:
@@ -18,7 +17,7 @@ In my master's program at TUM, I developed a system for a robot to localize soun
 
 This project encompassed key areas of knowledge:
 
-* **Low-level Programming:** Efficient hardware control in assembly language.
+* **Low-level Programming:** Hardware control in assembly language.
 * **Microcontroller Programming:** Real-time management of sensors and actuators.
-* **Signal Processing:** Proficiency in ADC and sound localization.
-* **Control Systems:** Expertise in generating PWM signals for motor control.
+* **Signal Processing:** ADC and sound localization.
+* **Control Systems:** PWM signal generation for motor control.

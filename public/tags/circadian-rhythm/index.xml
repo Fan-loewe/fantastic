@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Circadian Rhythm | Fan Wu</title>
+    <link>http://localhost:1313/tags/circadian-rhythm/</link>
+      <atom:link href="http://localhost:1313/tags/circadian-rhythm/index.xml" rel="self" type="application/rss+xml" />
+    <description>Circadian Rhythm</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu541db5144e01dff153da5e14220256e7_118377_512x512_fill_lanczos_center_3.png</url>
+      <title>Circadian Rhythm</title>
+      <link>http://localhost:1313/tags/circadian-rhythm/</link>
+    </image>
+    
+    <item>
+      <title>Comparative efficacy of commercial wearables for circadian rhythm home monitoring from activity, heart rate, and core body temperature</title>
+      <link>http://localhost:1313/publication/cr/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
