@@ -56,7 +56,7 @@ education:
       - Biomarkers to monitoring circadian rhythm using commercial devices.
       - Biomarkers derived from cerebrospinal fluid data.
 
-      My responsibilities encompass designing studies, developing mobile apps and web servers, conducting studies, collecting data, data analysis including signal processing and machine learning implementation.  
+      My responsibilities encompass designing studies, developing mobile apps and web servers, conducting studies, collecting data, data analysis including signal processing and machine learning implementation  
 
   - area: MSc Electrical engineering and information technology
     institution: Technical University Munich
