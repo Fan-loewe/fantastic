@@ -51,12 +51,20 @@ education:
     date_start: 2021-10-01
     date_end: ''
     summary: |
-      I focus on developing digital biomarkers using wearable devices for different diserses or conditions, including:
-      - Acoustic biomarker in heart failure patients.
-      - Biomarkers to monitoring circadian rhythm using commercial devices.
-      - Biomarkers derived from cerebrospinal fluid data.
+      I focus on developing biological and digital biomarkers in health diagnostics, monitoring and prognostics utilizing machine learning. I manage the full research lifecycle—from study design and data collection to model development and manuscript writing. I led the following projects:
+
+      - Voice-Based Prognostics for Heart Failure.
+      - Circadian Rhythm Monitoring using Commercial Wearables.
+      - Cerebrospinal Fluid Diagnostics.
 
       My responsibilities encompass designing studies, developing mobile apps and web servers, conducting studies, collecting data, data analysis including signal processing and machine learning implementation  
+
+- area: Visiting Researcher in Acoustic 
+    institution: Harvard Medical School & Massachusetts General Hospital
+    date_start: 2024-10-01
+    date_end: 2025-03-31
+    summary: |
+      Acoustic engineering, acoustic signal processing, acoustic feature extraction and selection.
 
   - area: MSc Electrical engineering and information technology
     institution: Technical University Munich
@@ -164,6 +172,20 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+
+
+- title: ETH Zurich Doc.Mobility Fellowship
+    url: https://grantsoffice.ethz.ch/funding-opportunities/internal/eth-doc-mobility/list-of-eth-doc-mobility-fellows.html
+    date-start: 2024-10-01
+    date-end: 2025-03-31
+    awarder: ETH Zurich, Switzerland
+
+- title: Swiss-European Mobility Programme Fellowship
+    url: https://www.international.tum.de/en/global/going-abroad/study/studying-in-switzerland/
+    date-start: 2020-09-01
+    date-end: 2021-02-28
+    awarder: TU Munich, Germany
+
   - title: Deutschlandstipendium Scholarship
     url: https://www.deutschlandstipendium.de/deutschlandstipendium/de/home/home_node.html
     date-start: 2019-10-01
@@ -194,4 +216,4 @@ awards:
 ---
 ## About Me
 
-During my studies and professional experiences in China, Germany, and Switzerland, I focused on developing digital applications and services using AI, data science, and ubiquitous computing. From electrical engineering and robotics to digital health, my passion is to develop technologies that improve people’s quality of life.
+During my studies and research experiences in China, Germany, and Switzerland, I focused on developing digital applications and services using AI and data science to tacle complex real-world challenges. From electrical engineering and robotics to digital health, my passion is to develop technologies that improve people’s quality of life.
