@@ -59,7 +59,7 @@ education:
 
       My responsibilities encompass designing studies, developing mobile apps and web servers, conducting studies, collecting data, data analysis including signal processing and machine learning implementation  
 
-- area: Visiting Researcher in Acoustic 
+  - area: Visiting Researcher in Acoustic 
     institution: Harvard Medical School & Massachusetts General Hospital
     date_start: 2024-10-01
     date_end: 2025-03-31
@@ -174,13 +174,13 @@ languages:
 awards:
 
 
-- title: ETH Zurich Doc.Mobility Fellowship
+  - title: ETH Zurich Doc.Mobility Fellowship
     url: https://grantsoffice.ethz.ch/funding-opportunities/internal/eth-doc-mobility/list-of-eth-doc-mobility-fellows.html
     date-start: 2024-10-01
     date-end: 2025-03-31
     awarder: ETH Zurich, Switzerland
 
-- title: Swiss-European Mobility Programme Fellowship
+  - title: Swiss-European Mobility Programme Fellowship
     url: https://www.international.tum.de/en/global/going-abroad/study/studying-in-switzerland/
     date-start: 2020-09-01
     date-end: 2021-02-28
